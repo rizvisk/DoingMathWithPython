@@ -7,6 +7,6 @@ Visitors are welcome to follow along, copy code, and provide feedback. Cheers!
 
 If you have the book, you can read the detailed description of the programming challenge at the end of each chapter. All Python files in this repository start with "p##" where the number following p is the chapter number in the book and the second number refers to the problem solved. For example:
 
-###p11EvenOdd.py
+#p11EvenOdd.py
 
 refers to problem 1 in chapter 1 dealing with Even and Odd numbers.
