@@ -9,11 +9,7 @@ import matplotlib.pyplot as plt
 
 # Assume values of x
 x_values = [-3, -2, -1, 1, 2, 3, 4, 5, 6, 7]
-y_values = []
-
-for x in x_values:
-    y = x**2 + 2*x + 1
-    y_values.append(y)
+y_values = [(x**2+2*x+1) for x in x_values]
 
 plt.plot(x_values, y_values, marker='o')
 plt.xlabel('X Values')
