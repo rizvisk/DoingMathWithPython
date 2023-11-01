@@ -1,4 +1,5 @@
 '''
+Abstract
 Explore a quadratic fucntion visually
 If y = x^2 + 2x + 1
 Calculate y for 10 different values of x
